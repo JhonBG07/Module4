@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Modulo4</string>
+    <string name="logo_desc">Logo app</string>
+    <string name="title">Petagram</string>
+    <string name="view_description">Pet Description</string>
+    <string name="like_btn">Like Button</string>
+    <string name="back_btn">Get back to the main Screen</string>
+    <string name="like_count">Like Count</string>
+    <string name="contact_menu">Contacto</string>
+    <string name="about_menu">Acerca de</string>
+</resources>
